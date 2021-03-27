@@ -1,0 +1,15 @@
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.exe
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.deps.json
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.runtimeconfig.json
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.runtimeconfig.dev.json
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.dll
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\bin\Debug\netcoreapp3.1\StaticCurrencyConverter.pdb
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.csprojAssemblyReference.cache
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.Form1.resources
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.csproj.GenerateResource.cache
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.AssemblyInfoInputs.cache
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.AssemblyInfo.cs
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.dll
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.pdb
+C:\Users\aldo\source\repos\StaticCurrencyConverter\StaticCurrencyConverter\obj\Debug\netcoreapp3.1\StaticCurrencyConverter.genruntimeconfig.cache
